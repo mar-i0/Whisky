@@ -27,3 +27,5 @@ You can customize the tool by adjusting the GPT-3.5 parameters. You can also mod
 If you'd like to contribute to this tool, feel free to submit a pull request. We welcome contributions from the community and are open to new ideas and improvements.
 Also you can buy me a coffee with BTC to this address: 1BRip4dm7CWpwkoHNaDYPVo61hq6NhzArE
 
+## Greets
+Dedicated to Roi Martin, who inspires me to be a better programmer every day.
