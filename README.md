@@ -1,8 +1,10 @@
 # Whisky 
 This tool enables users to convert speech to text and process the resulting input using GPT-3.5, a powerful language processing AI model. The output is then returned through the speakers for easy listening.
 
+
 ## Installation
 
+This piece of code is developed for Windows 10 using Microsoft Visual Studio Code.
 To use this tool, you'll need an OpenAI API key. Once you have that, clone this repository and install the required dependencies using pip:
 
 pip install -r requirements.txt
