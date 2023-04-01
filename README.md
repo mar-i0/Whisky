@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the tool, simply run the voice_to_text.py file and speak into your microphone. The tool will capture your speech, convert it to text, process it using GPT-3.5, and return the output through your speakers.
+To use the tool, simply run the Whisky.py file and speak into your microphone. The tool will capture your speech, convert it to text, process it using GPT-3.5, and return the output through your speakers.
 
 python Whisky.py
 
