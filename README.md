@@ -5,6 +5,7 @@ This tool enables users to convert speech to text and process the resulting inpu
 ## Installation
 
 This piece of code is developed for Windows 10 using Microsoft Visual Studio Code.
+This software uses the language configured in the operating system by default. Therefore, if your operating system is in Spanish, you can use Spanish to speak into the microphone. However, if it is in English, you will need to ask GPT questions in English.
 To use this tool, you'll need an OpenAI API key. Once you have that, clone this repository and install the required dependencies using pip:
 
 pip install -r requirements.txt
