@@ -18,7 +18,7 @@ To use the tool, simply run the Whisky.py file and speak into your microphone. T
 python Whisky.py
 
 <audio controls>
-  <source src="recitame.mp3" type="audio/mpeg">
+  <source src="https://github.com/mar-i0/Whisky/blob/main/recitame.mp3" type="audio/mpeg">
   Tu navegador no soporta el elemento de audio.
 </audio>
 
